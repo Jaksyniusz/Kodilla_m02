@@ -119,6 +119,12 @@ Poeksperymentuj z różnymi wyrażeniami wstawianymi zamiast number * number. Po
 
 
 ### Zadanie 2.5.2
+Ćwiczenie
+
+Zakoduj listę składaną, która tworzy nową listę z liczbami długość słów (obliczysz je funkcją len). Oto lista do przerobienia: ['Arystoteles','Platon','Sokrates'].
+
+
+### Zadanie 2.5.3
 Zadanie: listy składane
 
 Umieść dwa zadania w jednym pliku. Oczywiście jak zawsze za zadanie tworzymy nowy folder, a w nim plik main.py. Oto one:<br>
